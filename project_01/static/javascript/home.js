@@ -1,4 +1,4 @@
-//Challange 1: Your age in days
+//Challenge 1: Your age in days
 
 function gettingYourBirthYear() {
 let birthYear = prompt('Enter your birthyear!');
